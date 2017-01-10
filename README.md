@@ -7,4 +7,4 @@ Features:
 - MAC address table view
 
 Current tested models:
-1. Quanta LB6m
+- Quanta LB6m
